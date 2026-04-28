@@ -1,5 +1,14 @@
 <div align="center">
 
-<img src="https://images.steamusercontent.com/ugc/12661615319343119148/1F430C22B0A60539FF639A81B4CA05EBF2EECDA8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%" alt="Osaker" />
+<img src="https://raw.githubusercontent.com/UnemployedFreak/unemployedfreak/main/assets/osaka.gif" width="720px" alt="Osaker" />
+
+<br>**Tage arbeitslos**: 1393<br>
+**Zuletzt aktualisiert**: 2026-04-28<br>
+**Aktueller Arbeitgeber**: Jobcenter Berlin Spandau<br>
+**Position**: Vollzeit-Profibürgergeldempfänger<br>
+
+<img src="https://raw.githubusercontent.com/UnemployedFreak/unemployedfreak/main/assets/azu-dance.gif" width="300px" alt="Bonkurazu" />
+
+*Professionell nichts tun seit Tag 1.*
 
 </div>
