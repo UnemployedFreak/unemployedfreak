@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/UnemployedFreak/unemployedfreak/main/assets/osaka.gif" width="720px" alt="Osaker" />
 
-<br>**Tage arbeitslos**: 1409<br>
-**Zuletzt aktualisiert**: 2026-05-14<br>
+<br>**Tage arbeitslos**: 1410<br>
+**Zuletzt aktualisiert**: 2026-05-15<br>
 **Aktueller Arbeitgeber**: Jobcenter Berlin Spandau<br>
 **Position**: Vollzeit-Profibürgergeldempfänger<br>
 
