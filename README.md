@@ -2,10 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/UnemployedFreak/unemployedfreak/main/assets/osaka.gif" width="720px" alt="Osaker" />
 
-<br>**Tage arbeitslos**: 1459<br>
-**Zuletzt aktualisiert**: 2026-07-03<br>
+<br>**Tage arbeitslos**: 1460<br>
+**Zuletzt aktualisiert**: 2026-07-04<br>
 **Aktueller Arbeitgeber**: Jobcenter Berlin Spandau<br>
-**Position**: Vollzeit-Profibürgergeldempfänger<br>
+**Position**: Langzeit-Bürgergeld-Veteran & Jobcenter-Legende<br>
 
 <img src="https://raw.githubusercontent.com/UnemployedFreak/unemployedfreak/main/assets/azu-dance.gif" width="300px" alt="Bonkurazu" />
 
